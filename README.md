@@ -3,13 +3,13 @@ AI will generate copy and keywords about your brand
 
 Try out the app here: https://ai-brand-writer.vercel.app/
 
-Backend Stack:
+**Backend Stack**:
 Language- Python
 Framework- FastAPI
 Hosting- AWS (Lambda + API Gateway)
 Other- OpenAI, AWS, CDK, Docker
 
-Frontend Stack:
+**Frontend Stack**:
 Language- Typescript
 Framework- NextJS built on Library React
 Styling- TailwindCSS
