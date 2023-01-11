@@ -59,7 +59,7 @@ const AiBrandWriter: React.FC = () => {
       <div className="max-w-md m-auto p-2">
         <div className="bg-slate-800 p-6 rounded-md text-white">
           <div className="text-center my-6">
-            <Image src={logo} width={100} height={100} alt={"AiBrandWriter"} />
+            <Image src={logo} width={175} height={175} alt={"AiBrandWriter"} className="mx-auto"/>
             <h1 className={gradientTextStyle + " text-3xl font-light"}>
               AiBrandWriter
             </h1>
